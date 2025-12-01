@@ -1,6 +1,10 @@
-# henryheffernan.com
+# Purav Malik - Portfolio Website
 
-This is one of two repositories created for my portfolio website <a href="https://henryheffernan.com/"><samp>henryheffernan.com</samp></a>. If you are looking for the 2D OS repository you can find it <a href="https://github.com/henryjeff/portfolio-inner-site"><samp>here</samp></a>! Thanks for taking the time to check this out. If you have any questions of comments, feel free to shoot me an email at <samp><a href="mailto:henryheffernan@gmail.com">henryheffernan@gmail.com</a></samp> or you can DM me on twitter <a href="https://twitter.com/henryheffernan"><samp>@henryheffernan</samp></a>.
+This is my portfolio website repository. Thanks for taking the time to check this out! If you have any questions or comments, feel free to reach out:
+
+- **Email**: <a href="mailto:puravmalik24@gmail.com">puravmalik24@gmail.com</a>
+- **GitHub**: <a href="https://github.com/Purav1267">github.com/Purav1267</a>
+- **LinkedIn**: <a href="https://www.linkedin.com/in/purav-malik/">linkedin.com/in/purav-malik</a>
 
 <br>
 
