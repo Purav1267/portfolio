@@ -183,11 +183,15 @@ export default class MonitorScreen extends EventEmitter {
         };
 
         // Set iframe attributes
-        // PROD
-        iframe.src = 'https://os.henryheffernan.com/';
+        // PROD - Deployed inner site URL
+        iframe.src = 'https://portfolio-innersite.vercel.app/';
         /**
-         * Use dev server is query params are present
+         * Use dev server if query params are present
          *
+         * For local development:
+         * 1. Run your inner site on localhost:3000
+         * 2. Add ?dev to your portfolio URL (e.g., http://localhost:8080/?dev)
+         * 
          * Warning: This will not work unless the dev server is running on localhost:3000
          * Also running the dev server causes browsers to freak out over unsecure connections
          * in the iframe, so it will flag a ton of issues.
@@ -204,7 +208,7 @@ export default class MonitorScreen extends EventEmitter {
         iframe.className = 'jitter';
         iframe.id = 'computer-screen';
         iframe.frameBorder = '0';
-        iframe.title = 'HeffernanOS';
+        iframe.title = 'MalikOS';
 
         // Add iframe to container
         container.appendChild(iframe);
